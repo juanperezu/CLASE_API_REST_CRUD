@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Una pelicula nueva",
+        "director": "Stanley Kubrick",
+        "year": "1971",
+        "duration": "2h 17m",
+        "genre": "Ciencia ficción/Crimen",
+        "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQai9TXjeYfWDDQf-INkDHmWkbaEUHs9TPy3py_XUmU_-V8uEpx"
+    },
+    {
+        "id": 2,
+        "title": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "year": "1994",
+        "duration": "2h 58m",
+        "genre": "Crimen/Comedia",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNXausZcJhov0ejL3Qp7PUc3FPoDZMNk01JQ&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "title": "Eyes Wide Shut",
+        "director": "Stanley Kubrick",
+        "year": "1999",
+        "duration": "2h 39m",
+        "genre": "Misterio/Drama",
+        "poster": "https://elcorreoweb.es/binrepository/461x301/0c0/0d0/none/10703/WHNW/eyes-wide-shut_20475657_20200726182009.jpg"
+    },
+    {
+        "id": 4,
+        "title": "NuevooEyes Wide Shut",
+        "director": "Stanley Kubrick",
+        "year": "1999",
+        "duration": "2h 39m",
+        "genre": "Misterio/Drama",
+        "poster": "https://elcorreoweb.es/binrepository/461x301/0c0/0d0/none/10703/WHNW/eyes-wide-shut_20475657_20200726182009.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Los Colores de la Montaña",
+        "director": "Carlos Arbeláez",
+        "year": "2011",
+        "duration": "1h 30m",
+        "genre": "Drama",
+        "poster": "http://es.web.img3.acsta.net/c_215_290/medias/nmedia/18/84/28/08/19734252.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Golpe de estadio",
+        "director": "Directorsasa",
+        "year": 2005,
+        "duration": "2h 17m",
+        "genre": "Dram",
+        "poster": "https://encrypted-tbn3.gstatic.com/images"
+    },
+    {
+        "id": 7,
+        "title": "NUemro nuevo ",
+        "director": "Modificaado",
+        "year": "2011",
+        "duration": "1h 30m",
+        "genre": "Modificado|Drama",
+        "poster": "http://es.web.img3.acsta.net/"
+    }
+]
